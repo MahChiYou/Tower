@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 05e47675ea05d9b499860e42f582b3fc
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: aglio walk animation v2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pPlane26
+      parentName: aglio walk animation v2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle12
+      parentName: aglio walk animation v2(Clone)
+      position: {x: 0.34539035, y: 0.15446617, z: 0}
+      rotation: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 3.8763292, y: 3.8763292, z: 3.8763292}
+    - name: nurbsCircle9
+      parentName: nurbsCircle12
+      position: {x: 0.029746406, y: -0.03924238, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+      scale: {x: 3.3962846, y: 3.3962846, z: 3.3962846}
+    - name: nurbsCircle11
+      parentName: aglio walk animation v2(Clone)
+      position: {x: -0.34594357, y: 0.1539772, z: 0.000019467341}
+      rotation: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 3.8763292, y: 3.8763292, z: 3.8763292}
+    - name: nurbsCircle10
+      parentName: nurbsCircle11
+      position: {x: 0.03945521, y: 0.039419997, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+      scale: {x: 3.3962846, y: 3.3962846, z: 3.3962846}
+    - name: nurbsCircle17
+      parentName: aglio walk animation v2(Clone)
+      position: {x: 0.6333859, y: 0.6762317, z: 0.31696284}
+      rotation: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 7.3203745, y: 7.3203745, z: 7.3203745}
+    - name: nurbsCircle16
+      parentName: nurbsCircle17
+      position: {x: 0.026262425, y: 0, z: 0.0074199997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.52952605, y: 0.52952605, z: 0.52952605}
+    - name: nurbsCircle13
+      parentName: nurbsCircle16
+      position: {x: 0.049895205, y: -0.00634, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle18
+      parentName: aglio walk animation v2(Clone)
+      position: {x: -0.63931835, y: 0.6608446, z: 0.31696284}
+      rotation: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 7.3203745, y: 7.3203745, z: 7.3203745}
+    - name: nurbsCircle15
+      parentName: nurbsCircle18
+      position: {x: 0.02836437, y: -0.0006378161, z: 0.0074157417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.52952605, y: 0.52952605, z: 0.52952605}
+    - name: nurbsCircle14
+      parentName: nurbsCircle15
+      position: {x: 0.053864688, y: 0.004972125, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: donottouch
+      parentName: aglio walk animation v2(Clone)
+      position: {x: -0.16132382, y: -0.10672214, z: -0.15683474}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_arm1
+      parentName: donottouch
+      position: {x: 0.32397422, y: 0.62171906, z: 0.31365}
+      rotation: {x: -0.106631376, y: 0.99429864, z: 6.088323e-17, w: -6.529288e-18}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_arm2
+      parentName: right_arm1
+      position: {x: -0.19797143, y: -6.217249e-17, z: -7.888609e-33}
+      rotation: {x: -0.03463189, y: 0.024110869, z: 0.7184017, w: 0.6943475}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: right_arm3
+      parentName: right_arm2
+      position: {x: -0.1917863, y: 0.003667935, z: -0.055276345}
+      rotation: {x: -0.98662823, y: -0.16298681, z: -1.9690422e-17, w: -1.6326064e-18}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: right_arm4
+      parentName: right_arm3
+      position: {x: -0.19535781, y: 0.0013191542, z: 2.1316282e-16}
+      rotation: {x: -0.03248963, y: 0.02692816, z: -0.65238196, w: 0.7567147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_leg11
+      parentName: donottouch
+      position: {x: -0.32397398, y: 0.6060875, z: 0.31365973}
+      rotation: {x: -0, y: -0, z: 0.8485657, w: 0.52909}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_leg12
+      parentName: arm_leg11
+      position: {x: 0.19797191, y: 0.00000033189946, z: 2.7467499e-34}
+      rotation: {x: -0.18678437, y: -0.06673968, z: -0.01267159, w: -0.98004943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_leg13
+      parentName: arm_leg12
+      position: {x: 0.20649211, y: -0.000058368907, z: 0.055235438}
+      rotation: {x: 0.9979072, y: 0.013325442, z: 0.06242901, w: -0.010313021}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: arm_leg14
+      parentName: arm_leg13
+      position: {x: 0.21068807, y: -0.00000017325922, z: -7.105427e-17}
+      rotation: {x: 4.1224323e-17, y: -3.7795163e-17, z: -0.6757849, w: 0.73709893}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000007}
+    - name: right_leg5
+      parentName: donottouch
+      position: {x: 0.19479592, y: 0.30996192, z: 0}
+      rotation: {x: -0, y: -0, z: 0.6943733, w: 0.719615}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: right_leg6
+      parentName: right_leg5
+      position: {x: -0.16222623, y: -0.0013976559, z: 0}
+      rotation: {x: 0.9995808, y: 0.028954744, z: 1.7729657e-18, w: 6.1206674e-17}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: right_leg7
+      parentName: right_leg6
+      position: {x: -0.092682995, y: 0.0008699922, z: 1.0654332e-19}
+      rotation: {x: -0.6992079, y: -0.7149185, z: -4.2814137e-17, w: 4.377614e-17}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: left_leg8
+      parentName: donottouch
+      position: {x: -0.19479601, y: 0.270314, z: 0.000019467341}
+      rotation: {x: 0.719615, y: -0.6943733, z: 4.2518106e-17, w: -4.4063716e-17}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: left_leg9
+      parentName: left_leg8
+      position: {x: 0.12247018, y: -0.000021865893, z: -0.0000011835189}
+      rotation: {x: -0.99958074, y: -0.028954774, z: 1.7729657e-18, w: 6.120668e-17}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: left_leg10
+      parentName: left_leg9
+      position: {x: 0.13092043, y: 0.00043339367, z: -0.0000011835189}
+      rotation: {x: 0.69920784, y: 0.7149185, z: 0.000000005326558, w: 0.0000000052095044}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000007}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

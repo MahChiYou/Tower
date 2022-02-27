@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 27c6ba300410f9c43a7e32691b16075b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3508068015389007188
+    second: Prep Over, Wave Start - Scale Test_0
+  - first:
+      213: 1963016844023149368
+    second: Prep Over, Wave Start - Scale Test_1
+  - first:
+      213: 2007326620965515436
+    second: Prep Over, Wave Start - Scale Test_2
+  - first:
+      213: 5077410607401617585
+    second: Prep Over, Wave Start - Scale Test_3
+  - first:
+      213: -3148770494432734746
+    second: Prep Over, Wave Start - Scale Test_4
+  - first:
+      213: 394384645880983189
+    second: Prep Over, Wave Start - Scale Test_5
+  - first:
+      213: -5707922247759635020
+    second: Prep Over, Wave Start - Scale Test_6
+  - first:
+      213: 4409047324900194230
+    second: Prep Over, Wave Start - Scale Test_7
+  - first:
+      213: -7685940415518741750
+    second: Prep Over, Wave Start - Scale Test_8
+  - first:
+      213: -8556121022519503691
+    second: Prep Over, Wave Start - Scale Test_9
+  - first:
+      213: -7841456673688412780
+    second: Prep Over, Wave Start - Scale Test_10
+  - first:
+      213: 7875368212254347943
+    second: Prep Over, Wave Start - Scale Test_11
+  - first:
+      213: -9207547706071914378
+    second: Prep Over, Wave Start - Scale Test_12
+  - first:
+      213: 3389182279715995760
+    second: Prep Over, Wave Start - Scale Test_13
+  - first:
+      213: 8681678074040027773
+    second: Prep Over, Wave Start - Scale Test_14
+  - first:
+      213: 1420548701045045424
+    second: Prep Over, Wave Start - Scale Test_15
+  - first:
+      213: -8037763746423720862
+    second: Prep Over, Wave Start - Scale Test_16
+  - first:
+      213: 103241697643729056
+    second: Prep Over, Wave Start - Scale Test_17
+  - first:
+      213: -194253765760370194
+    second: Prep Over, Wave Start - Scale Test_18
+  - first:
+      213: -3410917588587173590
+    second: Prep Over, Wave Start - Scale Test_19
+  - first:
+      213: 2386082658707393575
+    second: Prep Over, Wave Start - Scale Test_20
+  - first:
+      213: -1985001310511720127
+    second: Prep Over, Wave Start - Scale Test_21
+  - first:
+      213: -8743710615001841029
+    second: Prep Over, Wave Start - Scale Test_22
+  - first:
+      213: -3428326702371018763
+    second: Prep Over, Wave Start - Scale Test_23
+  - first:
+      213: 6655478474787308144
+    second: Prep Over, Wave Start - Scale Test_24
+  - first:
+      213: 7901308613189736796
+    second: Prep Over, Wave Start - Scale Test_25
+  - first:
+      213: 5668978245906543418
+    second: Prep Over, Wave Start - Scale Test_26
+  - first:
+      213: -5119683485284426621
+    second: Prep Over, Wave Start - Scale Test_27
+  - first:
+      213: 2448434603047309698
+    second: Prep Over, Wave Start - Scale Test_28
+  - first:
+      213: 2241630787496258676
+    second: Prep Over, Wave Start - Scale Test_29
+  - first:
+      213: -341365237474187950
+    second: Prep Over, Wave Start - Scale Test_30
+  - first:
+      213: -9071212686668649802
+    second: Prep Over, Wave Start - Scale Test_31
+  - first:
+      213: -3572556030943850370
+    second: Prep Over, Wave Start - Scale Test_32
+  - first:
+      213: -7935240850766293270
+    second: Prep Over, Wave Start - Scale Test_33
+  - first:
+      213: -7135322719371612125
+    second: Prep Over, Wave Start - Scale Test_34
+  - first:
+      213: -803198041114635177
+    second: Prep Over, Wave Start - Scale Test_35
+  - first:
+      213: 7426991233544313605
+    second: Prep Over, Wave Start - Scale Test_36
+  - first:
+      213: 4317120435839093436
+    second: Prep Over, Wave Start - Scale Test_37
+  - first:
+      213: -1242622492703650521
+    second: Prep Over, Wave Start - Scale Test_38
+  - first:
+      213: 8499539800399852699
+    second: Prep Over, Wave Start - Scale Test_39
+  - first:
+      213: -1051097124021492466
+    second: Prep Over, Wave Start - Scale Test_40
+  - first:
+      213: -1568961076776237757
+    second: Prep Over, Wave Start - Scale Test_41
+  - first:
+      213: -8859488668378420946
+    second: Prep Over, Wave Start - Scale Test_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6704
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca224def9b6d05fc0800000000000000
+      internalID: -3508068015389007188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_1
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 6704
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833bb1c4b690e3b10800000000000000
+      internalID: 1963016844023149368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_2
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 6704
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b5de2de47bdb10800000000000000
+      internalID: 2007326620965515436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_3
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 6704
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b849f0db06967640800000000000000
+      internalID: 5077410607401617585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_4
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 6704
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11b101be15d44d0800000000000000
+      internalID: -3148770494432734746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5866
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eaa92feb2297500800000000000000
+      internalID: 394384645880983189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 5866
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bddcb025f269c0b0800000000000000
+      internalID: -5707922247759635020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_7
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 5866
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ff8e8e25103d30800000000000000
+      internalID: 4409047324900194230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_8
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 5866
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bef28f9ed065590800000000000000
+      internalID: -7685940415518741750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_9
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 5866
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41975234d824980800000000000000
+      internalID: -8556121022519503691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5028
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9f2b73bc8d2390800000000000000
+      internalID: -7841456673688412780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 5028
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d2ded9adea4d60800000000000000
+      internalID: 7875368212254347943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 5028
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ee1f1528383080800000000000000
+      internalID: -9207547706071914378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_13
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 5028
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0704585a35bc80f20800000000000000
+      internalID: 3389182279715995760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_14
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 5028
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0479f5348b7870800000000000000
+      internalID: 8681678074040027773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4190
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8bee7648dc6b310800000000000000
+      internalID: 1420548701045045424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_16
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 4190
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b6e16570247090800000000000000
+      internalID: -8037763746423720862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_17
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 4190
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0101ae6c9ce6100800000000000000
+      internalID: 103241697643729056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_18
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 4190
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9329faa3fdd4df0800000000000000
+      internalID: -194253765760370194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_19
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 4190
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a292126668cf9a0d0800000000000000
+      internalID: -3410917588587173590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3352
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c49fc39811d1120800000000000000
+      internalID: 2386082658707393575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3352
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149934833dbd374e0800000000000000
+      internalID: -1985001310511720127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_22
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3352
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72c006958918a680800000000000000
+      internalID: -8743710615001841029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_23
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 3352
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7603b37032c60d0800000000000000
+      internalID: -3428326702371018763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_24
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 3352
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c4fb19620d5c50800000000000000
+      internalID: 6655478474787308144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2514
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5998ed125617ad60800000000000000
+      internalID: 7901308613189736796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_26
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2514
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333daadda14cae40800000000000000
+      internalID: 5668978245906543418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_27
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2514
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1031defa33f8b0800000000000000
+      internalID: -5119683485284426621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_28
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2514
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d8629c469af120800000000000000
+      internalID: 2448434603047309698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_29
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 2514
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2b46135fdb1f10800000000000000
+      internalID: 2241630787496258676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1676
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552fa9002a334bf0800000000000000
+      internalID: -341365237474187950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_31
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1676
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba29117f149c1280800000000000000
+      internalID: -9071212686668649802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_32
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1676
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709963d73bbb6ec0800000000000000
+      internalID: -3572556030943850370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_33
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 1676
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae618ea2d7c50e190800000000000000
+      internalID: -7935240850766293270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_34
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1676
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b4129acd3afc90800000000000000
+      internalID: -7135322719371612125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754921b13a77ad4f0800000000000000
+      internalID: -803198041114635177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_36
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 838
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b59515d29f11760800000000000000
+      internalID: 7426991233544313605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_37
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 838
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbac4cec92e79eb30800000000000000
+      internalID: 4317120435839093436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_38
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 838
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d0d743d6151cee0800000000000000
+      internalID: -1242622492703650521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_39
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 838
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b02d7a6e64f570800000000000000
+      internalID: 8499539800399852699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a3421cb0c961f0800000000000000
+      internalID: -1051097124021492466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_41
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458650a63ee93ae0800000000000000
+      internalID: -1568961076776237757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prep Over, Wave Start - Scale Test_42
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 954
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a4b5eef5cc0580800000000000000
+      internalID: -8859488668378420946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: abdff97325f93744493eb5213553a476
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

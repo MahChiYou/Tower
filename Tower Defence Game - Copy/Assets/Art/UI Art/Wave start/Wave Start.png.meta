@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 8313b329f85ea954ca1159cdb6b34f02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7039595014710629978
+    second: Wave Start_0
+  - first:
+      213: -2479386357209331042
+    second: Wave Start_1
+  - first:
+      213: 7702952717038300085
+    second: Wave Start_2
+  - first:
+      213: -19942367706148462
+    second: Wave Start_3
+  - first:
+      213: -535848026547511797
+    second: Wave Start_4
+  - first:
+      213: 7385160920381221380
+    second: Wave Start_5
+  - first:
+      213: 4477854052239398033
+    second: Wave Start_6
+  - first:
+      213: 2672804099021903806
+    second: Wave Start_7
+  - first:
+      213: -6923255728159210969
+    second: Wave Start_8
+  - first:
+      213: -2307407590932506954
+    second: Wave Start_9
+  - first:
+      213: -7030850435281795396
+    second: Wave Start_10
+  - first:
+      213: -992780834431870512
+    second: Wave Start_11
+  - first:
+      213: 2610360241676888476
+    second: Wave Start_12
+  - first:
+      213: -7163171885409139678
+    second: Wave Start_13
+  - first:
+      213: 2583654525880226473
+    second: Wave Start_14
+  - first:
+      213: -2036230801873509873
+    second: Wave Start_15
+  - first:
+      213: 7112082609008875064
+    second: Wave Start_16
+  - first:
+      213: -208185182053328577
+    second: Wave Start_17
+  - first:
+      213: 576846789592154064
+    second: Wave Start_18
+  - first:
+      213: 8255102032416376472
+    second: Wave Start_19
+  - first:
+      213: -1693748438308559445
+    second: Wave Start_20
+  - first:
+      213: -7442803967243409443
+    second: Wave Start_21
+  - first:
+      213: 3718974848247880660
+    second: Wave Start_22
+  - first:
+      213: 468603797296577447
+    second: Wave Start_23
+  - first:
+      213: -8828557522078564392
+    second: Wave Start_24
+  - first:
+      213: -3710034263026249103
+    second: Wave Start_25
+  - first:
+      213: 9195523603181659981
+    second: Wave Start_26
+  - first:
+      213: -145685632891471189
+    second: Wave Start_27
+  - first:
+      213: -1381305861730416152
+    second: Wave Start_28
+  - first:
+      213: -6559039824949452006
+    second: Wave Start_29
+  - first:
+      213: 7423991839589017315
+    second: Wave Start_30
+  - first:
+      213: -6574014883457987036
+    second: Wave Start_31
+  - first:
+      213: 7954458656683727119
+    second: Wave Start_32
+  - first:
+      213: -8243504842943918357
+    second: Wave Start_33
+  - first:
+      213: -8796346604508146727
+    second: Wave Start_34
+  - first:
+      213: 5672183511534445725
+    second: Wave Start_35
+  - first:
+      213: 4132283352957215968
+    second: Wave Start_36
+  - first:
+      213: -4641259091947478651
+    second: Wave Start_37
+  - first:
+      213: -4871931730018365585
+    second: Wave Start_38
+  - first:
+      213: -9048909068178197618
+    second: Wave Start_39
+  - first:
+      213: 7975909214921369653
+    second: Wave Start_40
+  - first:
+      213: 1889634546109688574
+    second: Wave Start_41
+  - first:
+      213: 2952441267857482965
+    second: Wave Start_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wave Start_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5610765e5aa1b160800000000000000
+      internalID: 7039595014710629978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 4480
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a86959e33779dd0800000000000000
+      internalID: -2479386357209331042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_2
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4480
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bba2b42fa266ea60800000000000000
+      internalID: 7702952717038300085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_3
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 4480
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29115e0b58629bff0800000000000000
+      internalID: -19942367706148462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_4
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 4480
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9a041f094098f0800000000000000
+      internalID: -535848026547511797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6b649abc5d7660800000000000000
+      internalID: 7385160920381221380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3920
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d5cb2988842e30800000000000000
+      internalID: 4477854052239398033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_7
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3920
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7986cba25b71520800000000000000
+      internalID: 2672804099021903806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_8
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3920
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c1e1a897abef90800000000000000
+      internalID: -6923255728159210969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_9
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3920
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b69d6e65017affd0800000000000000
+      internalID: -2307407590932506954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c028b7c66d6e90800000000000000
+      internalID: -7030850435281795396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3360
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95fdf471fe832f0800000000000000
+      internalID: -992780834431870512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_12
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3360
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9924fc3fccd93420800000000000000
+      internalID: 2610360241676888476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_13
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3360
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248f115f1d479c90800000000000000
+      internalID: -7163171885409139678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_14
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3360
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2db6d3a1cfad320800000000000000
+      internalID: 2583654525880226473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ee95cfdaddb3e0800000000000000
+      internalID: -2036230801873509873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2800
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361533937133b260800000000000000
+      internalID: 7112082609008875064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2800
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3916301ea06c1df0800000000000000
+      internalID: -208185182053328577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_18
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2800
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff67f491f510800800000000000000
+      internalID: 576846789592154064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_19
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2800
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89688c2af83009270800000000000000
+      internalID: 8255102032416376472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5eebbe4c89e78e0800000000000000
+      internalID: -1693748438308559445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2240
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a697b939d5b890800000000000000
+      internalID: -7442803967243409443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_22
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2240
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5d66abe37c9330800000000000000
+      internalID: 3718974848247880660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_23
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2240
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf24ebba0d08600800000000000000
+      internalID: 468603797296577447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_24
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2240
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df776995b9aa7580800000000000000
+      internalID: -8828557522078564392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172dacf8e7f438cc0800000000000000
+      internalID: -3710034263026249103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1680
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ec534fff0d9f70800000000000000
+      internalID: 9195523603181659981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_27
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1680
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa30a250bb6afdf0800000000000000
+      internalID: -145685632891471189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_28
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1680
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9c46123ad94dce0800000000000000
+      internalID: -1381305861730416152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_29
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1680
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136f3ec70c99f4a0800000000000000
+      internalID: -6559039824949452006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e62a1e7e31570760800000000000000
+      internalID: 7423991839589017315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_31
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1120
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0b5b4b4864c4a0800000000000000
+      internalID: -6574014883457987036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_32
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1120
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091a24f00ae36e60800000000000000
+      internalID: 7954458656683727119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_33
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1120
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8d147500399d80800000000000000
+      internalID: -8243504842943918357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_34
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1120
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d314154e591de580800000000000000
+      internalID: -8796346604508146727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a6d9e9d4a7be40800000000000000
+      internalID: 5672183511534445725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 560
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e46644d0d1d85930800000000000000
+      internalID: 4132283352957215968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_37
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 560
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812be1427fe69fb0800000000000000
+      internalID: -4641259091947478651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_38
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 560
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f0d4677eb636cb0800000000000000
+      internalID: -4871931730018365585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_39
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 560
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837d6a4521db6280800000000000000
+      internalID: -9048909068178197618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538272c3c2f10be60800000000000000
+      internalID: 7975909214921369653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaac24ab94593a10800000000000000
+      internalID: 1889634546109688574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Start_42
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 634
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d469deb0bd29f820800000000000000
+      internalID: 2952441267857482965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d4bfeff6f6019564f992b7e50d7936e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

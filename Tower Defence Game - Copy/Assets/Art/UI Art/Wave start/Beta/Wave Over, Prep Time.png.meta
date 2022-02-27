@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: a12a1b4956d46114684b5d5d71af2a0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6812961639912068190
+    second: Wave Over, Prep Time_0
+  - first:
+      213: -1331465548089491602
+    second: Wave Over, Prep Time_1
+  - first:
+      213: -65754996898829331
+    second: Wave Over, Prep Time_2
+  - first:
+      213: 1775267148038099463
+    second: Wave Over, Prep Time_3
+  - first:
+      213: 7195363268084561711
+    second: Wave Over, Prep Time_4
+  - first:
+      213: 4098781131991918655
+    second: Wave Over, Prep Time_5
+  - first:
+      213: -7118180492931985793
+    second: Wave Over, Prep Time_6
+  - first:
+      213: 493306317762489544
+    second: Wave Over, Prep Time_7
+  - first:
+      213: 1738432077167757577
+    second: Wave Over, Prep Time_8
+  - first:
+      213: -2853155544321255288
+    second: Wave Over, Prep Time_9
+  - first:
+      213: 1380682866628775389
+    second: Wave Over, Prep Time_10
+  - first:
+      213: -8726890264541440735
+    second: Wave Over, Prep Time_11
+  - first:
+      213: 8289385470694409313
+    second: Wave Over, Prep Time_12
+  - first:
+      213: 3937185319271937193
+    second: Wave Over, Prep Time_13
+  - first:
+      213: -4270898730778319833
+    second: Wave Over, Prep Time_14
+  - first:
+      213: 2719386834273497404
+    second: Wave Over, Prep Time_15
+  - first:
+      213: -5308216881398967361
+    second: Wave Over, Prep Time_16
+  - first:
+      213: -7802735993792398511
+    second: Wave Over, Prep Time_17
+  - first:
+      213: -7618173172855634875
+    second: Wave Over, Prep Time_18
+  - first:
+      213: -5798808160270783900
+    second: Wave Over, Prep Time_19
+  - first:
+      213: 3685008480272574665
+    second: Wave Over, Prep Time_20
+  - first:
+      213: 4095811469188291456
+    second: Wave Over, Prep Time_21
+  - first:
+      213: 451358467057149012
+    second: Wave Over, Prep Time_22
+  - first:
+      213: 5707455286861833997
+    second: Wave Over, Prep Time_23
+  - first:
+      213: -6768353834021119170
+    second: Wave Over, Prep Time_24
+  - first:
+      213: 7407902500560903168
+    second: Wave Over, Prep Time_25
+  - first:
+      213: 2528529923210466962
+    second: Wave Over, Prep Time_26
+  - first:
+      213: -5794313164586801120
+    second: Wave Over, Prep Time_27
+  - first:
+      213: -2063874376395342255
+    second: Wave Over, Prep Time_28
+  - first:
+      213: -6077190466669037410
+    second: Wave Over, Prep Time_29
+  - first:
+      213: 7631100107578243385
+    second: Wave Over, Prep Time_30
+  - first:
+      213: 3181973188787636217
+    second: Wave Over, Prep Time_31
+  - first:
+      213: -8787489466332667989
+    second: Wave Over, Prep Time_32
+  - first:
+      213: -1045568026736644261
+    second: Wave Over, Prep Time_33
+  - first:
+      213: 4931872636797027325
+    second: Wave Over, Prep Time_34
+  - first:
+      213: -6730261803485511643
+    second: Wave Over, Prep Time_35
+  - first:
+      213: 3151260244433305947
+    second: Wave Over, Prep Time_36
+  - first:
+      213: 4052225856565354810
+    second: Wave Over, Prep Time_37
+  - first:
+      213: -823434279274963749
+    second: Wave Over, Prep Time_38
+  - first:
+      213: 7310569671030226574
+    second: Wave Over, Prep Time_39
+  - first:
+      213: 559040764565741712
+    second: Wave Over, Prep Time_40
+  - first:
+      213: 2617059785185760691
+    second: Wave Over, Prep Time_41
+  - first:
+      213: 2043537632466645104
+    second: Wave Over, Prep Time_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4464
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abada03c7f7371a0800000000000000
+      internalID: -6812961639912068190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 4464
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f747f632fa58de0800000000000000
+      internalID: -1331465548089491602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_2
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4464
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb63afbd24661ff0800000000000000
+      internalID: -65754996898829331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_3
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 4464
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7025b3cb01403a810800000000000000
+      internalID: 1775267148038099463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_4
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 4464
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f21805c01bd360800000000000000
+      internalID: 7195363268084561711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3906
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38a37829bbc1e830800000000000000
+      internalID: 4098781131991918655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3906
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8caf2e84273d90800000000000000
+      internalID: -7118180492931985793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_7
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3906
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc60bb7b7398d600800000000000000
+      internalID: 493306317762489544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_8
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3906
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098ab973c6202810800000000000000
+      internalID: 1738432077167757577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_9
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3906
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889bcb262e8768d0800000000000000
+      internalID: -2853155544321255288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3348
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd40e480cb292310800000000000000
+      internalID: 1380682866628775389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3348
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125513c9a8bd3e680800000000000000
+      internalID: -8726890264541440735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_12
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3348
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644603aa20d90370800000000000000
+      internalID: 8289385470694409313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_13
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3348
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a436121031b3a630800000000000000
+      internalID: 3937185319271937193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_14
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3348
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724aa488b38bab4c0800000000000000
+      internalID: -4270898730778319833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2790
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31feb7fae33db520800000000000000
+      internalID: 2719386834273497404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2790
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39b79dedc6556b0800000000000000
+      internalID: -5308216881398967361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2790
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b79dd44fc17b390800000000000000
+      internalID: -7802735993792398511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_18
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2790
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448782bcdfc64690800000000000000
+      internalID: -7618173172855634875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_19
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2790
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6c6e93be768fa0800000000000000
+      internalID: -5798808160270783900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e2f450b7c32330800000000000000
+      internalID: 3685008480272574665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2232
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b50f7a4de37d830800000000000000
+      internalID: 4095811469188291456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_22
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2232
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546e47622c834600800000000000000
+      internalID: 451358467057149012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_23
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2232
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0723d01854f43f40800000000000000
+      internalID: 5707455286861833997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_24
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2232
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b94095c0af112a0800000000000000
+      internalID: -6768353834021119170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1674
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c19a453182ec660800000000000000
+      internalID: 7407902500560903168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1674
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d7e48194271320800000000000000
+      internalID: 2528529923210466962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_27
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1674
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282f6b50e6769fa0800000000000000
+      internalID: -5794313164586801120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_28
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1674
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ebce58035ab53e0800000000000000
+      internalID: -2063874376395342255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_29
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1674
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983dc9087b79aba0800000000000000
+      internalID: -6077190466669037410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93975a5dd1d17e960800000000000000
+      internalID: 7631100107578243385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_31
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1116
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f70182a1c3a82c20800000000000000
+      internalID: 3181973188787636217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_32
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1116
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf11c373e09c0680800000000000000
+      internalID: -8787489466332667989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_33
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1116
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2bd95b656d71f0800000000000000
+      internalID: -1045568026736644261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_34
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1116
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df381c17808817440800000000000000
+      internalID: 4931872636797027325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520cdd55c8e4992a0800000000000000
+      internalID: -6730261803485511643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5102480f768bbb20800000000000000
+      internalID: 3151260244433305947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_37
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 558
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a312b3a62f56c3830800000000000000
+      internalID: 4052225856565354810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_38
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 558
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9fefb2e29294f0800000000000000
+      internalID: -823434279274963749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_39
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 558
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e308bf16c547560800000000000000
+      internalID: 7310569671030226574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09067ea0d9c12c700800000000000000
+      internalID: 559040764565741712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b515f3420aa15420800000000000000
+      internalID: 2617059785185760691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wave Over, Prep Time_42
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 634
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070315c46aa1c5c10800000000000000
+      internalID: 2043537632466645104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3ce6f26dda9cac74ba96e5cf0ee654a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
